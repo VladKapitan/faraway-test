@@ -1,0 +1,49 @@
+{
+  "name": "faraway-test",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.13.3",
+    "@mui/styles": "^5.13.2",
+    "@reduxjs/toolkit": "^1.9.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.11.2",
+    "react-scripts": "^5.0.1",
+    "redux": "^4.2.1",
+    "tss-react": "^4.8.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^14.0.0",
+    "@types/node": "^20.2.5",
+    "@types/react": "^18.2.7",
+    "@types/react-dom": "^18.2.4",
+    "@types/react-redux": "^7.1.25",
+    "@types/react-router-dom": "^5.3.3",
+    "@types/redux-mock-store": "^1.0.3",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-mock-store": "^1.5.4",
+    "typescript": "^5.0.4"
+  }
+}
